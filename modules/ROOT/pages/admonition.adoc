@@ -1,4 +1,6 @@
 = Admonition
+:tags: ztp, 5gcore
+
 
 == Admonition styles
 
