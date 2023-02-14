@@ -1,5 +1,5 @@
 = Inline Text Formatting
-:tags: ztp, 5gcore
+:page-category: ztp, 5gcore
 :example-caption!:
 
 You can add the following inline styles to your content:
