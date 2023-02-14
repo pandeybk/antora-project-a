@@ -1,5 +1,5 @@
 = Admonition
-:page-category: ztp, 5gcore
+:page-category: ztp
 
 
 == Admonition styles
